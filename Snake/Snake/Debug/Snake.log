@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Grzegorz\source\repos\Snake\Snake\main.cpp(47): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Grzegorz\source\repos\Snake\Snake\main.cpp(59): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Grzegorz\source\repos\Snake\Snake\main.cpp(90): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Grzegorz\source\repos\Snake\Snake\main.cpp(95): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Grzegorz\source\repos\Snake\Snake\main.cpp(98): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Snake.vcxproj -> C:\Users\Grzegorz\source\repos\Snake\Debug\Snake.exe

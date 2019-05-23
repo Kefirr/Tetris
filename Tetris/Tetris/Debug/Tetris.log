@@ -5,4 +5,5 @@ C:\Users\Grzegorz\source\repos\Tetris\Tetris\main.cpp(75): warning C4305: "=": o
 C:\Users\Grzegorz\source\repos\Tetris\Tetris\main.cpp(128): warning C4305: "=": obcięcie z "double" do "float"
 C:\Users\Grzegorz\source\repos\Tetris\Tetris\main.cpp(139): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
 C:\Users\Grzegorz\source\repos\Tetris\Tetris\main.cpp(147): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  LINK : nie znaleziono elementu C:\Users\Grzegorz\source\repos\Tetris\Debug\Tetris.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
   Tetris.vcxproj -> C:\Users\Grzegorz\source\repos\Tetris\Debug\Tetris.exe
